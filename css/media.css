@@ -1,0 +1,40 @@
+/*****xl*****/
+@media (max-width: 1399px){
+	.become-our-partner-section {
+    margin-top: 50px;
+	}
+}
+/*****xl*****/
+
+/*****lg*****/
+@media (max-width: 1199px){
+	.banner-section .be-partner h1 {
+    margin-top: 30px;
+	}
+	
+}
+/*****lg*****/
+
+/*****md*****/
+@media (max-width: 991px){
+	
+}
+/*****md*****/
+
+/*****sm*****/
+@media (max-width: 767px){
+	.become-our-partner-section h1 {
+    font-size: 25px;
+    padding-bottom: 15px;
+	}
+}
+/*****sm*****/
+
+/*****xsm*****/
+@media (max-width: 575px){
+	.become-our-partner-section h1 {
+    font-size: 25px;
+    padding-bottom: 15px;
+	}
+}
+/*****xsm*****/
